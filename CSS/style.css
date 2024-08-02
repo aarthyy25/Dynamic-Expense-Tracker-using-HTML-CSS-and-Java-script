@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color:teal;
+  }
+.row{
+  margin: 20px;
+  padding: 20px;
+}
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+  }
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid black;
+}
+
+.add-expense {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+  .action-btn {
+    background-color:lightseagreen ;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .filter-dropdown {
+    width: 150px;
+  }
